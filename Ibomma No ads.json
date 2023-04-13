@@ -2449,701 +2449,911 @@
 		}
     ],
 	"HollywoodMovie":[
-		 {
+		{
 			"id": 1,
+			"Video_Id": "E5IBTnBUYms",
+			"Movie_name": "Jumanji: The Next Level",
+			"Description": "When Spencer goes missing, his group of friends return to Jumanji to travel unexplored territories and help him escape the world's most dangerous game.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "4tMtXq8XmHw",
+			"Movie_name": "End Of The World",
+			"Description": "As mass of solar storms causes tsunamis, volcanoes, and flooding, a city-dwelling family attempts to flee to the relative safety of a group of high-elevation caves several miles away.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTA4YWM5MjQtMjk5ZC00MTI5LTk1NWUtMTExYmE5YzliOTY3XkEyXkFqcGdeQXVyMjA2NTc3NDU@._V1_.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "7aChZ9TO2sc",
+			"Movie_name": "Suicide Squad",
+			"Description": "In the aftermath of Superman's death,intelligence officer Amanda Waller convinces the US Government to greenlight Task Force X, a response team of criminals and supervillains.",
+			"Movieimg": "https://i.ytimg.com/vi/VZuLM-0fVok/movieposter_en.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "5qjp-S1uqas",
+			"Movie_name": "Dangerous",
+			"Description": "A reformed sociopath journeys to a remote island to investigate the mystery behind his brother's demise, but soon ends up facing off with more than he bargained for.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/khatra-dangerous-et00324906-21-03-2022-11-02-22.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "y2CJ25673yU",
+			"Movie_name": "Malevolence 2",
+			"Description": "Martin Bristol, a six-year-old, is abducted from his backyard swing and forced to witness the brutal crimes of a deranged madman.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/f0/Bereavement.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "uUXgXglQEBU",
+			"Movie_name": "Crocodile Island",
+			"Description": "Crocodile Island is a 2020 Chinese action monster film directed by Xu Shixing and Simon Zhao, and starring Gallen Lo as a single father who lands on a crocodile island with his daughter due to a plane malfunction and must battle with beast-sized creatures inhabiting the island.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjE4YzM5OTctYTFhMS00YzA4LTllOWEtMTA3ZWFlMDRjZDc1XkEyXkFqcGdeQXVyNTAyMjE2Njc@._V1_.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "NYFkMznd32E",
+			"Movie_name": "Serpent King Island",
+			"Description": "This story is about Snake King’s descendants teaming up with animal protection experts to fight against a black market snake hunting gang bought by real estate developers on Snake King Island.",
+			"Movieimg": "https://pic4.iqiyipic.com/image/20210728/ec/14/v_160979544_m_601_en_260_360.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "3Kb43HRWw6I",
+			"Movie_name": "Ice Age Collision Course",
+			"Description": "Scrat accidentally sets off an asteroid to Earth while trying to get his acorn. However, Manny, Sid and Diego must join forces with Buck to prevent the asteroid from wiping out their existence.",
+			"Movieimg": "https://lumiere-a.akamaihd.net/v1/images/p_iceagecollisioncourse_21384_ed27f2ef.jpeg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "PQdl-VvaWiA",
+			"Movie_name": "GODZILLA OF THE SWAMP",
+			"Description": "A beach resort town in Thailand loses good chunks of its tourist trade when a killer croc is cut loose and left to roam the local swamps. The feeding frenzy also raises the stakes in the competition between two competing croc farmers, who are liable to lose an arm and a leg if business drops off.",
+			"Movieimg": "https://i.ytimg.com/vi/PQdl-VvaWiA/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "5s1KDEwHuvM",
+			"Movie_name": "Shark Island",
+			"Description": "Four friends plan the perfect weekend getaway at a seemingly peaceful island. However, their holiday turns into a nightmare when a school of sharks with zombie-like features attacks them.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTUzYzQzMzUtMmMzYS00YWI1LWJiN2EtOGQ2NWRlNGNkOTExXkEyXkFqcGdeQXVyMzI5NzMxNjU@._V1_.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "BnCEHrkuMOo",
+			"Movie_name": "Robbery",
+			"Description": "A Senegalese bank-robber born and raised in France is getting over a disastrous heist. As he considers going straight, his cousin calls him from Dakar with an easy opportunity.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzZlNzNiOTItYjE0NS00ZjcxLTk4ZjYtODcxOTA5ZmIxYzNjXkEyXkFqcGdeQXVyNzY4NzE0MDU@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "9g1XuuRFyyE",
+			"Movie_name": "King Of Serpent",
+			"Description": "When Chen Zheng and his friends go to King Serpent Island to collect data on snakes, they encounter evil snake catchers led by Jin Laosi. Will Chen Zheng be able to save the island and its snakes?",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5258273/portrait/1920x7706a2fb486e5af4b5dae5d2481e4ddffdb.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "eUcmwrKRIyE",
+			"Movie_name": "The Outpost",
+			"Description": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh became the bloodiest American engagement of the Afghanistan War in 2009, and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWYyMzNjY2EtODVmYi00ODBmLWIyNGMtNDdhMGViY2RhNjcxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "noCG01hTFNk",
+			"Movie_name": "Fighter",
+			"Description": "Held in a remote police station, a mysterious stranger takes over the minds and souls of everyone inside. PC Rachel Heggie witnesses a hit and run while patrolling. She arrests the driver but later, things take a turn to the dark side when her colleagues find the victim, Six, and bring him to the station.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjY3NTM0NTgtZTcwNC00YzhmLWIzNDgtODJkYjRjZjExZTA0XkEyXkFqcGdeQXVyMjQzNjAzMzU@._V1_.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "gTje1c26nYE",
+			"Movie_name": "SOCIOPATHIC KILLER",
+			"Description": "In Los Angeles several Russian girls have been murdered. Police can not find the killer. For this reason the Russian police officer Vladimir Kazatov arrives to LA. Together with his American partner Emily Smith he proceeds to investigate these crimes.",
+			"Movieimg": "https://i.ytimg.com/vi/gTje1c26nYE/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "MjMG3eqHdcc",
+			"Movie_name": "Beyond Space",
+			"Description": "A deep space fishing vessel encounters a massive mammoth-like creature in the furthest reaches of the universe. Amid an obsessive pursuit of the creature, the crew knocks on the door of danger.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDgwYzQyYTItNmE0Mi00NzYyLWI0ZTUtZmMzYTdjNmFmNzZmXkEyXkFqcGdeQXVyMjc0NjcyNDM@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "d3TprTNA8dw",
+			"Movie_name": "Jurassic City",
+			"Description": "The lives of two best friends take different paths when Jake goes to prison to protect his friends, and Chris turns things around to become a police officer. Released after 15 years, Jake seeks revenge against his friends.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjM1MzUyMTk5MV5BMl5BanBnXkFtZTgwOTc2NzA0NDE@._V1_.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "p3dOoGk77jQ",
+			"Movie_name": "Judgment Day",
+			"Description": "A giant meteor is set to strike earth, and humanity's only hope is weapons engineer Dr. Corbett (Linden Ashby) : His defense system can shield the planet from annihilation. Unfortunately, the end of the world is exactly what cult leader Brother Payne (Mario Van Peebles) wants. And the easiest way to ensure it comes to pass is to kidnap Corbett.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzI0MDMwNjk2OV5BMl5BanBnXkFtZTYwNzg3MjY5._V1_.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "j4GgOO46bCQ",
+			"Movie_name": "GEOSTORM 2",
+			"Description": "San Francisco becomes a target for waves of destructive meteors after a rogue comet orbits around the earth. For astronomer, Michelle Young, what was meant to be an once-in-a-lifetime celestial event, soon turns into her worst nightmare as thousands of meteors break the surface of the atmosphere and bombard the city of San Francisco.",
+			"Movieimg": "https://i.ytimg.com/vi/E1cAjSoerAE/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "Qp21kw-B_i4",
+			"Movie_name": "Insight",
+			"Description": "Jian, a martial artist who possesses clairvoyance, investigates the death of his brother with the help of LA Detective Abby. Together, they seek justice while fighting against a high-tech criminal.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWI1OWY3MzItNTEyNi00OTRkLTk1ZmYtMmZmM2FiNzg4ZGNlXkEyXkFqcGdeQXVyNTcxMTU0MjA@._V1_.jpg"
+		},
+		{
+			"id": 21,
 			"Video_Id": "8WwLPep9xNg",
 			"Movie_name": "The Man Who Knew Infinity",
 			"Description": "At the turn of the twentieth century, Srinivasa Ramanujan is a struggling and indigent citizen in the city of Madras in India working at menial jobs at the edge of poverty.",
 			"Movieimg": "https://m.media-amazon.com/images/I/A1X+u9vdXtL._SY550_.jpg"
 		},
 		{
-			"id": 2,
+			"id": 22,
+			"Video_Id": "BW6yDGlphJM",
+			"Movie_name": "KILLING CRISIS",
+			"Description": "Falsely accused of the murder of a corrupt late-Jiajing period Ming Dynasty official, Li Xin escapes from prison to find the truth and save lives.",
+			"Movieimg": "https://i.ytimg.com/vi/BW6yDGlphJM/maxresdefault.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "TRs8eiJWz8g",
+			"Movie_name": "ADRIFT",
+			"Description": "A true story of survival, as a young couple's chance encounter leads them first to love, and then on the adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history.",
+			"Movieimg": "https://i.ebayimg.com/images/g/MeEAAOSwespi9yHS/s-l1600.jpg"
+		},
+		{
+			"id": 24,
+			"Video_Id": "Apt4SbttdDI",
+			"Movie_name": "Possession",
+			"Description": "Mark's wife Anna asks him for a divorce but he suspects that she is having an affair and hires a private investigator. Meanwhile, he begins an affair with his son's teacher who is Anna's lookalike.",
+			"Movieimg": "https://amc-theatres-res.cloudinary.com/v1579119080/amc-cdn/production/2/movies/37500/37519/Poster/p_800x1200_PossessionThe_En_030316.jpg"
+		},
+		{
+			"id": 25,
+			"Video_Id": "ZLPSry0xTwo",
+			"Movie_name": "Bhediya",
+			"Description": "A blazing fire rips its way through Bear Valley National Park. As the firefighters try to contain it, the animals are being forced out of their habitat including a beast that was better left undiscovered.",
+			"Movieimg": "https://i.ytimg.com/vi/ZLPSry0xTwo/maxresdefault.jpg"
+		},
+		{
+			"id": 26,
+			"Video_Id": "m6Mvl0o90n0",
+			"Movie_name": "Dinosaur World",
+			"Description": "Scientist Khojwala finds it difficult to nurture a baby dinosaur. He, with the help of Chhota Bheem and his gang, decides to travel back in time to return the animal to its world.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmUwYzg5MDctN2ZmYy00OTI2LWExMzYtNGUxMGFiOWQ5MzdmXkEyXkFqcGdeQXVyMTA5MTc4NDY2._V1_.jpg"
+		},
+		{
+			"id": 27,
+			"Video_Id": "ITsNkFI7rmo",
+			"Movie_name": "STORM RIDERS 2",
+			"Description": "Based on the comic book series “Fung Wan” and directed by the Pang Brothers comes the incredible story of two friends, Wind and Cloud, who find themselves up against a very powerful warlord intending to invade their country.",
+			"Movieimg": "https://i.ytimg.com/vi/OulSF59uDlQ/maxresdefault.jpg"
+		},
+		{
+			"id": 28,
+			"Video_Id": "xwcGu3GfAKE",
+			"Movie_name": "AMERICAN TRACKERS",
+			"Description": "A rogue NSA agent joins an elite group of Native American trackers who call themselves the Shadow Wolves as they engage in missions to protect justice in America and abroad.",
+			"Movieimg": "https://i.ytimg.com/vi/xwcGu3GfAKE/maxresdefault.jpg"
+		},
+		{
+			"id": 29,
+			"Video_Id": "fR2XTopGid0",
+			"Movie_name": "BLOOD SUCKERS",
+			"Description": "Ever since his parents were murdered by vampires, Jack Crow (James Woods) has had one purpose in life: putting stakes through bloodsuckers' hearts.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzZkZWRmMWEtYWNjMC00NjUzLWI5NjItOWUwNWM4NWZmZmI1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg"
+		},
+		{
+			"id": 30,
+			"Video_Id": "qO3nSFhYZws",
+			"Movie_name": "TOMBOY",
+			"Description": "After waking up and discovering that he has undergone gender reassignment surgery, an assassin seeks to find the doctor responsible. Will she be able to find the doctor? What will happen when she finds out?",
+			"Movieimg": "https://i.ytimg.com/vi/qO3nSFhYZws/maxresdefault.jpg"
+		},
+		{
+			"id": 31,
+			"Video_Id": "bGrFMAGxhKE",
+			"Movie_name": "LOCKUP ZOMBIES",
+			"Description": "There's a zombie outbreak after a medical trial in an international detention and medical facility on an isolated island. An ex US Special Forces/bodyguard woman inmate and a guard form a team.",
+			"Movieimg": "https://i.ytimg.com/vi/bGrFMAGxhKE/maxresdefault.jpg"
+		},
+		{
+			"id": 32,
 			"Video_Id": "g0q6v7mXoJw",
 			"Movie_name": "Hacker",
 			"Description": "The teenage girl witnessed the arrest of her father. As an adult, she become a hacker and assisted in national security. While on task she discovered assassination of a congressman.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2ZjNjIwOWQtZTBjNS00MGY1LTg3YzctMjM2YjlmYjAzMmYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI0ODc0NTI@._V1_.jpg"
 		},
 		{
-			"id": 3,
+			"id": 33,
 			"Video_Id": "RF3fk5Ys_KQ",
 			"Movie_name": "Switched",
 			"Description": "Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the queen bee of social media, would know what it's like to walk a day in her shoes. Her prayer is answered in an unexpected way when they get Switched.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/81CmBNGiHIL._RI_.jpg"
 		},
 		{
-			"id": 4,
+			"id": 34,
 			"Video_Id": "wYXc33R7HsM",
 			"Movie_name": "Daughter of the Wolf",
 			"Description": "Clair Hamilton is a military veteran whose son Charlie has been kidnapped. She brings a bag of money as ransom for Charlie but at the exchange she is double-crossed by the kidnappers, leading to a shootout.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjUzM2EzYWQtMDM4NS00NDY1LWJlNjEtYjMwMTllNGY5YTg1XkEyXkFqcGdeQXVyMTMyOTcyNA@@._V1_.jpg"
 		},
 		{
-			"id": 5,
+			"id": 35,
 			"Video_Id": "UkMLQOMEIew",
 			"Movie_name": "World War 4",
 			"Description": "A series of escalating incidents in Korea and the Middle East leads to greater conflict, placing the superpowers at one another's throats, and one family is caught up in the ever-growing conflict.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjU5NTIxMTItM2YyZS00Y2JkLThiNDMtY2U5YzE1Y2UwZWIxXkEyXkFqcGdeQXVyNDcwMzUyMDU@._V1_.jpg"
 		},
 		{
-			"id": 6,
+			"id": 36,
 			"Video_Id": "kJ5lSvBx_oE",
 			"Movie_name": "King Kong",
 			"Description": "King Kong is a 2005 epic adventure monster film co-written, produced, and directed by Peter Jackson. It is the 8th entry in the King Kong franchise and the second remake of the 1933 film of the same title following the 1976 film.",
 			"Movieimg": "https://i.pinimg.com/originals/28/c6/0a/28c60aa2ef32a9a29d5d48790b22b700.jpg"
 		},
 		{
-			"id": 7,
+			"id": 37,
 			"Video_Id": "EHDQwDsfL4E",
 			"Movie_name": "Bull Shark",
 			"Description": "Bull Shark is a 2022 American action horror film about a shark feeding on unsuspecting lake goers in a small Texas town. Also known as Blood in the Water.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGYxMTJmYjgtYTIyYS00MDVhLWI0NDYtN2EyNGFhODliYjg3XkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_.jpg"
 		},
 		{
-			"id": 8,
+			"id": 38,
 			"Video_Id": "JKnPhSb9lhg",
 			"Movie_name": "Journey :Inspired By True Events",
 			"Description": "It has been four years since the previous adventure. 17-year-old Sean is arrested by the police after a brief chase on his dirtbike. His stepfather Hank arrives when a police officer friend calls him, explaining that Sean had broken into a satellite control center.",
 			"Movieimg": "https://i.ytimg.com/vi/JKnPhSb9lhg/maxresdefault.jpg"
 		},
 		{
-			"id": 9,
+			"id": 39,
 			"Video_Id": "N9YTuB_zaDQ",
 			"Movie_name": "I Am a Good Person!",
 			"Description": "When a mother and daughter tour film festivals in Europe and decide to part ways, they must confront life-changing choices alone, before returning home.",
 			"Movieimg": "https://static.wikia.nocookie.net/thechurchofalmightygodmovies/images/9/9a/%22I_Am_a_Good_Person%21%22_.jpg/revision/latest?cb=20190101194637"
 		},
 		{
-			"id": 10,
+			"id": 40,
 			"Video_Id": "vCzjyLK0G40",
 			"Movie_name": "Chinese Zodiac",
 			"Description": "The movie begins with the story of the Old Summer Palace and its looting and destruction by British and French soldiers in the Second Opium War. Among the artifacts looted are twelve bronze heads of the animals of the Chinese zodiac.",
 			"Movieimg": "https://111.90.159.132/wp-content/uploads/2020/08/1hTpptSqKEAXnLVDPoLL1tyFojd.jpg"
 		},
 		{
-			"id": 11,
+			"id": 41,
 			"Video_Id": "Bv6A16vBH_0",
 			"Movie_name": "Lost Fare",
 			"Description": "A 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together they go on a journey of redemption that forever changes their lives.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzg2NzA4NTgtMmNhZS00YjRhLTlmNzEtYTczODE2Mjk1YWE0XkEyXkFqcGdeQXVyODcyNzE2NA@@._V1_.jpg"
 		},
 		{
-			"id": 12,
+			"id": 42,
 			"Video_Id": "hkt9Znn9Gbw",
 			"Movie_name": "American Backwoods Slew Hampshire",
 			"Description": "In June of 1994, one of the most brutal mass slaughters in history occurred in the backwoods of northern New England. Four months later, history is about to repeat itself.",
 			"Movieimg": "https://image.isu.pub/141215233851-d8b6938baab78a3d2578ed7d143642a4/jpg/page_1.jpg"
 		},
 		{
-			"id": 13,
+			"id": 43,
 			"Video_Id": "_JPgewojEN8",
 			"Movie_name": "BERMUDA TENTACLES",
 			"Description": "Bermuda Tentacles is an American made-for-television science fiction horror film directed by Nick Lyon. It starred Linda Hamilton and featured ensemble cast of Trevor Donovan, Mýa, John Savage and Jamie Kennedy.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQzOTQ3NDM2NV5BMl5BanBnXkFtZTgwNjAwMzk4MTE@._V1_.jpg"
 		},
 		{
-			"id": 14,
+			"id": 44,
 			"Video_Id": "ku8-F4aR9bM",
 			"Movie_name": "New World Order",
 			"Description": "The end has come, and a New World Order has arisen. Demi and Christen find themselves living in the apocalyptic era, foretold in the Holy Bible. Now three years already, since the inception of the New World Order.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTg0MDU2ODkxNl5BMl5BanBnXkFtZTgwMjg2NjA2MDE@._V1_.jpg"
 		},
 		{
-			"id": 15,
+			"id": 45,
 			"Video_Id": "LRkRWP8xh2M",
 			"Movie_name": "Silver Wolf",
 			"Description": "A ranger (Michael Biehn) and his 16-year-old nephew (Shane Meier) struggle to save a wolf from a rancher (Roy Scheider), who is out to kill it.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmU0ZTM0ZjItNzZjYy00YmE0LWE2M2MtMTIyOGI2YTQxNTkxXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_.jpg"
 		},
 		{
-			"id": 16,
+			"id": 46,
 			"Video_Id": "0WDzQaixPZ0",
 			"Movie_name": "Second Chances",
 			"Description": "Second Chances is a 1998 film directed by James Fargo.It stars Tom Amandes, former A Little Princess star Kelsey Mulrooney, Isabel Glasser, and The Nanny's Charles Shaughnessy and Madeline Zima.Second Chances is based on a true story.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWI4MWUxYzYtMjZhMS00YjA3LWJjYjctMTJlZjAyNDcyZmM2XkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_.jpg"
 		},
 		{
-			"id": 17,
+			"id": 47,
 			"Video_Id": "g0LCdlq-BK0",
 			"Movie_name": "Wild Faith",
 			"Description": "\"Wild Faith\" is a Michigan production, and not just because of the locations. The cast and crew are all Michiganders, many from Lansing. Michigan history also played its part. A circus train crash that happens early on in the movie was inspired by an actual circus train crash in 1903 in Durand.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzJmZDkyNTYtOGFjNS00ZWI0LTg3MTktYzBhZmZiYTk0ZTgzXkEyXkFqcGdeQXVyOTgxMDQ3MjM@._V1_.jpg"
 		},
 		{
-			"id": 18,
+			"id": 48,
 			"Video_Id": "sWfgTiJ3sCs",
 			"Movie_name": "The Secret Garden",
 			"Description": "The Secret Garden is a 2020 British fantasy drama film based on the 1911 novel of the same name by Frances Hodgson Burnett, the fourth film adaptation of the novel. Directed by Marc Munden and produced by David Heyman, it stars Dixie Egerickx, Colin Firth, and Julie Walters.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmViODUwN2YtZDk0YS00OTg4LWIyNmYtZjM1Y2EyYWIyMmU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
 		},
 		{
-			"id": 19,
+			"id": 49,
 			"Video_Id": "gACV4CEQdds",
 			"Movie_name": "Mary 4 Mayor",
 			"Description": "Mary Parsons, the smartest girl in her graduating high school class, has a grudge against her dad, the Mayor of the small town and community they live in.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDQyOTE1MGMtYjExNi00MWRhLTk1NmEtM2UxNmUyNDA2MzM4XkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_.jpg"
 		},
 		{
-			"id": 20,
+			"id": 50,
 			"Video_Id": "3XjykBz6qlE",
 			"Movie_name": "Baby Bulldog",
 			"Description": "Animal-lover Amber desperately wants a dog to love. When she falls for Shadow, she takes on her family and city hall to fight for her new best friend in a race against the clock.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2QwYjYzNDgtNzI5My00ZWFhLWExOTItMzM2ZGU1YjcxM2ZjXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 21,
+			"id": 51,
 			"Video_Id": "jjErvtg4iZw",
 			"Movie_name": "The End of Days: Global Catastrophe",
 			"Description": "A group of survivalists who are trying to live as normal as possible, in a world of chaos, after an EMP attack knocked out all power. But things go from bad to worse when they are targeted for elimination by dark forces.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTBjZWE5NTMtYWEzMi00ZDMzLThkMGYtMzMyN2Y4M2RmMjE5XkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_.jpg"
 		},
 		{
-			"id": 22,
+			"id": 52,
 			"Video_Id": "GMVDoTB2RME",
 			"Movie_name": "The Exorcism in Amarillo",
 			"Description": "The Exorcism in Amarillo is Based on the true story of Ashley Hays Wright. In the Texas town of Amarillo, her family will unknowingly open the door to evil that will change their lives forever.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmJiZjFjMDQtNTk4MS00ZjU1LWJhMzgtMzM0YjJhMzFjZDcwXkEyXkFqcGdeQXVyMTAxODk2NjI0._V1_.jpg"
 		},
 		{
-			"id": 23,
+			"id": 53,
 			"Video_Id": "-Zu0j90XrAU",
 			"Movie_name": "Halloween Hero",
 			"Description": "A retired police officer loses his wife to a violent attack. While trying to live with the heartbreaking loss, He has to deal with a community infested with crime. He is considering suicide when he meets a poor young child who comes to his door to trick or treat.",
 			"Movieimg": "https://cdnprod.christiancinema.com/images/products/9772_255w_360h.jpg"
 		},
 		{
-			"id": 24,
+			"id": 54,
 			"Video_Id": "2kWP_bcwyWQ",
 			"Movie_name": "Home Sweet Home",
 			"Description": "Flirtatious barista Victoria (Natasha Bure) is bored with her social butterfly lifestyle and longs for real love. When handsome Jason (Ben Elliott) walks into her coffee shop, she turns on the charm.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDMzNzVmMWYtM2FmYi00YzJlLTk1YTItZTU3ZDJlNTMxZjkxXkEyXkFqcGdeQXVyMjQwNjk5MDA@._V1_.jpg"
 		},
 		{
-			"id": 25,
+			"id": 55,
 			"Video_Id": "IPbFtnu0pQA",
 			"Movie_name": "For the Love of Jessee",
 			"Description": "Doctor Luke Matthew's world comes crashing down when he loses the love of his life and becomes a father in the same night. When he hires Sage as the new nanny, they both begin to realize that the best form of medicine is letting go.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTliYWEwYTgtMmQxMi00MjVlLWJmNDItM2FiNGRkZDA3MWRkXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_.jpg"
 		},
 		{
-			"id": 26,
+			"id": 56,
 			"Video_Id": "BfhvAhID7q4",
 			"Movie_name": "Romance in the Outfield: Double Play",
 			"Description": "While recovers from a bad injury, a baseball player meet again his former love and starts to believe that there is still something there that can change their lives.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGM1NTE2Y2UtN2Y4My00ZjRiLWE3OGYtY2NkMjQ5YWJkNDA3XkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_.jpg"
 		},
 		{
-			"id": 27,
+			"id": 57,
 			"Video_Id": "vtx3AFNOw7I",
 			"Movie_name": "Faith.Hope.Love",
 			"Description": "Recent divorcee Faith enters a dance contest to save her dance studio, where she meets Jimmy Hope and rediscovers her faith and dreams.",
 			"Movieimg": "https://occ-0-999-1001.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABbE7RdEZLETXyxlPTXIs5GyFKZlr0_XjWO6WAj7XCnTRernQ9biogSTqYUvVxixxJQyHkeehJ7SRm9VmDpJct8L2I_Y7.jpg"
 		},
 		{
-			"id": 28,
+			"id": 58,
 			"Video_Id": "XCzeoQf1-As",
 			"Movie_name": "Tapestry",
 			"Description": "Tapestry is the story of a man (Stephen Baldwin) in the midst of a heavy personal and spiritual crisis. Aided by his Father (Burt Young), and his family, he embarks on a personal journey that will forever change him.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDdlMzk5NTAtMmRhMy00MjZlLTg2MWEtMzVlY2E3ZmRjMDEwXkEyXkFqcGdeQXVyMjExMjg4NzE@._V1_.jpg"
 		},
 		{
-			"id": 29,
+			"id": 59,
 			"Video_Id": "ToqzyWGKdTM",
 			"Movie_name": "No Place In This World",
 			"Description": "A troubled home, a new school. Two sisters are trying to survive a bad situation in a disconnected, self-centered world.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTk4OWMyYjgtOGRlNy00ZTQxLTk0NzgtMzk4MWU5YzQ2MWYwXkEyXkFqcGdeQXVyNTI4OTM1NDU@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 30,
+			"id": 60,
 			"Video_Id": "8uBp8lORs_Q",
 			"Movie_name": "SHAOLIN VS EVIL DEAD 2",
 			"Description": "Gordon Liu, the Taoist priest Pak, returns to the sequel of Shaolin vs. Evil Dead in order to stop his fellow Taoist priest Hak who has turned into a vampire and follows a legion of vampires to destroy the earth.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWIxMWI0MWUtNDM0MC00MGU2LThhM2UtODlmMmVmZTM3M2I4XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg"
 		},
 		{
-			"id": 31,
+			"id": 61,
 			"Video_Id": "7YYuWt-KTBs",
 			"Movie_name": "DRAGON KING",
 			"Description": "Dark Kingdom: The Dragon King is a 2004 German television film directed by Uli Edel and starring Benno Fürmann, Alicia Witt, Kristanna Loken and Max von Sydow.",
 			"Movieimg": "https://i.ytimg.com/vi/7YYuWt-KTBs/maxresdefault.jpg"
 		},
 		{
-			"id": 32,
+			"id": 62,
 			"Video_Id": "bV96l3nSkGI",
 			"Movie_name": "Implement",
 			"Description": "",
 			"Movieimg": "https://i.ytimg.com/vi/bV96l3nSkGI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuSxvU2lIUrez8Q-bQMoXVmwvFcA"
 		},
 		{
-			"id": 33,
+			"id": 63,
 			"Video_Id": "CUAMV-ADiv4",
 			"Movie_name": "Rise",
 			"Description": "The true story of a young man falsely accused of rape and sentenced to six years in a maximum security prison. He must rely on survival skills and an unlikely bond with an infamous inmate to prove his innocence and regain his freedom.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTY0NTc1MTE3M15BMl5BanBnXkFtZTgwMDczNjM1MjE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 34,
+			"id": 64,
 			"Video_Id": "VVIUlaNPec8",
 			"Movie_name": "Alpha Wolf: Fall In Love",
 			"Description": "Sarah hadn’t expected to fall for a werewolf, but when she found out that he wasn’t human, she was too deeply in love to step back. Meeting his pack was going to be hard enough, and becoming part of his world was even harder.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWY1MjU4NmEtMDUzZi00MzFjLTgxMmItZDdjMzFmNGFlNzc0XkEyXkFqcGdeQXVyMDExNzg5Mw@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
 		},
 		{
-			"id": 35,
+			"id": 65,
 			"Video_Id": "h7DYL0oOjLw",
 			"Movie_name": "GHOST SQUAD",
 			"Description": "A little bit spooky and a whole lot of fun, Ghost Squad is the story of two young girls who accidently cast a spell that stirs evil spirits in their Florida town.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjIyMzIyMzM4Nl5BMl5BanBnXkFtZTgwMTU2NTQ0NjE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 36,
+			"id": 66,
 			"Video_Id": "6qtcDyva3lw",
 			"Movie_name": "SAVAGE BEACH",
 			"Description": "DEA agents flying cargo as part of their cover make an emergency landing on a remote island in the pacific, where several unscrupulous parties are looking for a WWII gold treasure.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjY5YmZmN2ItOTZhZS00MzRkLThiY2QtZGU4YTUxYTI2OTY0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg"
 		},
 		{
-			"id": 37,
+			"id": 67,
 			"Video_Id": "oXSYPSH6sLA",
 			"Movie_name": "WHITEBLOOD",
 			"Description": "White blood cells are made in the bone marrow. They are stored in your blood and lymph tissues. Because some white blood cells called neutrophils have a short life less than a day, your bone marrow is always making them.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTA5MTBlNzYtZTg0Ni00NTU4LWE5MzEtYzEwMjUxMjkyYjEwXkEyXkFqcGdeQXVyMjM4MzQyNzU@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 38,
+			"id": 68,
 			"Video_Id": "h68bMQWNQzE",
 			"Movie_name": "KUNG FU CHEF",
 			"Description": "Kung Fu Chefs is a 2009 Hong Kong action film directed by Ken Yip, starring Sammo Hung,Louis Fan, Vanness Wu, Sammo Hung's real life son Timmy Hung, Ku Feng and Lee Hoi San. This was Lee Hoi San's final film appearance. This film was shot with a low budget.",
 			"Movieimg": "https://m.media-amazon.com/images/I/71JL3DNC-RL._AC_SL1280_.jpg"
 		},
 		{
-			"id": 39,
+			"id": 69,
 			"Video_Id": "Ccq_cEnHFSQ",
 			"Movie_name": "BLOOD FROM STONE",
 			"Description": "Bodies start to pile up when a self-destructive vampire follows his fed-up bride to a desert town full of gamblers and drunks.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/715WyqDPgiL._RI_.jpg"
 		},
 		{
-			"id": 40,
+			"id": 70,
 			"Video_Id": "t7Dt9WT-xoU",
 			"Movie_name": "HARD HUNTED",
 			"Description": "An international arms dealer will stop at nothing to retrieve a stolen Chinese nuclear relay hidden in a jade Buddha figurine. It's up to a group of undercover federal agents stationed in Hawaii to stop it falling into the wrong hands.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWU2YzkyOGUtYjg5Ny00YTQwLTk0ZGYtMDA0YTNhYTM2OGU1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg"
 		},
 		{
-			"id": 41,
+			"id": 71,
 			"Video_Id": "7jxN-gTfE84",
 			"Movie_name": "THE GOLF BALL",
 			"Description": "",
 			"Movieimg": "https://i.ytimg.com/vi/7jxN-gTfE84/maxresdefault.jpg"
 		},
 		{
-			"id": 42,
+			"id": 72,
 			"Video_Id": "2CJCvzbvwWY",
 			"Movie_name": "THE WRONG HOUSE",
 			"Description": "After breaking into a remote house in the woods, five friends learn too late there are some people you just shouldn't mess with... and that they picked THE WRONG HOUSE.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWY5NDBkMzgtNmEyZi00OTg4LTllMWMtZDBmNzc4NjYxNzY1XkEyXkFqcGdeQXVyMjUxMjkzMzI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 43,
+			"id": 73,
 			"Video_Id": "KCfvug9u1cg",
 			"Movie_name": "PICASSO TRIGGER",
 			"Description": "After his brother got eliminated in Hard Ticket to Hawaii (1987), a crime lord triggers a ruthless hunt against all agents responsible, and the remaining agents will have to avenge their fallen comrades.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmY4MzU0YzgtYTlkMy00MGUxLWJkNjEtNGZiMGM1OWNjMTRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg"
 		},
 		{
-			"id": 44,
+			"id": 74,
 			"Video_Id": "fD2qYVK_2Ps",
 			"Movie_name": "GUNS",
 			"Description": "After a failed assassination attempt on her partner, DEA agent Donna Hamilton discovers that the crime lord responsible for her father's death is coming after her and her associates.",
 			"Movieimg": "https://i.ytimg.com/vi/fD2qYVK_2Ps/maxresdefault.jpg"
 		},
 		{
-			"id": 45,
+			"id": 75,
 			"Video_Id": "gSEz2kFRbFc",
 			"Movie_name": "SOLE PROPRIETOR",
 			"Description": "After faking his own death, a former CIA contractor develops a relationship with a foreign prostitute while awaiting the delivery of his new identity.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmM0OWExYjEtOWFkMi00NmI4LWE5NGUtYTc3ZTgzM2Y4M2Y4XkEyXkFqcGdeQXVyNTMwMzgxNQ@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 46,
+			"id": 76,
 			"Video_Id": "daHPVgPpv9k",
 			"Movie_name": "NORTH OF THE CITY",
 			"Description": "The CFO of a large corporation narrowly escapes an attack by a man on the street with help from a stranger. She teams up with a news editor and a reporter to find out who is hunting her and why.",
 			"Movieimg": "https://i.ytimg.com/vi/RbsqH_zNHSE/movieposter_en.jpg"
 		},
 		{
-			"id": 47,
+			"id": 77,
 			"Video_Id": "pNYmFI3DqKY",
 			"Movie_name": "Clown Motel Vacancies",
 			"Description": "When Shane has unfinished business, both personal and professional, he takes a trip with his pregnant wife Tara to a Motel on the outskirts of town.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/71FjnSuoxvL._RI_.jpg"
 		},
 		{
-			"id": 48,
+			"id": 78,
 			"Video_Id": "g4QlQo_FVl0",
 			"Movie_name": "Spider-Man: Lost Cause",
 			"Description": "Peter Parker a lone child discovers that his parents were in a horrifying plot to make mankind change. getting bitten by his fathers invention he develops super powers to tries to find answers to his whole life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmZkYWRlNWQtOGY0Zi00MWZkLWJiZTktNjRjMDY4MTU2YzAyXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_.jpg"
 		},
 		{
-			"id": 49,
+			"id": 79,
 			"Video_Id": "wFbmnOSkOKM",
 			"Movie_name": "Zombies Lake",
 			"Description": "In a small village, somewhere in France, German soldiers, killed and thrown into the lake by the Resistance during WW II, come back.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmE1YTA0M2QtZDRhZi00ZDZmLTljYmUtODc1N2Q3NDUwNmE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
 		},
 		{
-			"id": 50,
+			"id": 80,
 			"Video_Id": "-Td05XH0TDg",
 			"Movie_name": "The Jesus Film",
 			"Description": "Jesus is a 1979 American Biblical drama film directed by Peter Sykes and John Krish, and produced by John Heyman. In Jesus, the life of Jesus Christ is depicted, primarily using the Gospel of Luke as the main basis for the story.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Jesusfilm1979.jpg/220px-Jesusfilm1979.jpg"
 		},
 		{
-			"id": 51,
+			"id": 81,
 			"Video_Id": "kvAj0wwBvAQ",
 			"Movie_name": "BLIND DEAD",
 			"Description": "Tombs of the Blind Dead is a 1972 Spanish-Portuguese horror film written and directed by Amando de Ossorio.",
 			"Movieimg": "https://i.ytimg.com/vi/kvAj0wwBvAQ/maxresdefault.jpg"
 		},
 		{
-			"id": 52,
+			"id": 82,
 			"Video_Id": "GxmDDeAlz7Q",
 			"Movie_name": "Adventure Sci-Fi",
 			"Description": "",
 			"Movieimg": "https://i.ytimg.com/vi/GxmDDeAlz7Q/maxresdefault.jpg"
 		},
 		{
-			"id": 53,
+			"id": 83,
 			"Video_Id": "jVRsmUcaqrU",
 			"Movie_name": "Fast and Furious 9",
 			"Description": "Johnson did not appear in F9, and this was largely due to the friction between the actor and Vin Diesel on the Fast & Furious sets.",
 			"Movieimg": "https://m.media-amazon.com/images/I/81lDX4z+A7L._SL1500_.jpg"
 		},
 		{
-			"id": 54,
+			"id": 84,
 			"Video_Id": "mKSc8KMMMwI",
 			"Movie_name": "Star Wars: Rogue Squadron",
 			"Description": "Star Wars: Rogue Squadron is a series of Star Wars arcade-style action video games jointly developed by LucasArts and Factor 5 and published by LucasArts for Nintendo consoles.",
 			"Movieimg": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2481.jpg"
 		},
 		{
-			"id": 55,
+			"id": 85,
 			"Video_Id": "cen-yPSEOiE",
 			"Movie_name": "Star Wars 10",
 			"Description": "The Star Wars franchise involves multiple live-action and animated films. The film series started with a trilogy set in medias res which was later expanded to a trilogy of trilogies, known as the \"Skywalker Saga\".",
 			"Movieimg": "https://i.ytimg.com/vi/LZEwsKJs1NE/maxresdefault.jpg"
 		},
 		{
-			"id": 56,
+			"id": 86,
 			"Video_Id": "z1vv6k0LsuY",
 			"Movie_name": "Avengers: Endgame",
 			"Description": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
 		},
 		{
-			"id": 57,
+			"id": 87,
 			"Video_Id": "hy9iO66XloU",
 			"Movie_name": "Guardians of the Galaxy 3",
 			"Description": "Guardians of the Galaxy Vol. 3 is an upcoming American superhero film based on the Marvel Comics superhero team Guardians of the Galaxy, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.",
 			"Movieimg": "https://i.redd.it/p4nhl3a0lep31.png"
 		},
 		{
-			"id": 58,
+			"id": 88,
 			"Video_Id": "wrAgTrW9MUo",
 			"Movie_name": "Ice Part 1",
 			"Description": "The destructive effects of global warming cause unimaginable devastation and panic worldwide in this post-apocalyptic",
 			"Movieimg": "https://i.ytimg.com/vi/wrAgTrW9MUo/maxresdefault.jpg"
 		},
 		{
-			"id": 59,
+			"id": 89,
 			"Video_Id": "SCT4Xzk6eO0",
 			"Movie_name": "Ice Part 2",
 			"Description": "A film starring A-list cast- Richard Roxburgh (Hacksaw Ridge) and Sam Neil (Jurassic Park). Including epic production values, Ice confronts a terrifying and plausible natural disaster of epic proportions",
 			"Movieimg": "https://i.ytimg.com/vi/SCT4Xzk6eO0/maxresdefault.jpg"
 		},
 		{
-			"id": 60,
+			"id": 90,
 			"Video_Id": "tS8Wyz9Cd1Q",
 			"Movie_name": "Zodiac: Signs of the Apocalypse",
 			"Description": "When a mysterious planet crosses the sun, global catastrophes are unleashed. A rogue scientist is the key to deciphering the symbols and humanity's only chance at survival.",
 			"Movieimg": "https://m.media-amazon.com/images/I/51lj3VYaeYL.jpg"
 		},
 		{
-			"id": 61,
+			"id": 91,
 			"Video_Id": "CyCcgT3SG18",
 			"Movie_name": "The ash lad mountain king",
 			"Description": "An adventure film is form of adventure fiction, and is a genre of film. Subgenres of adventure films include swashbuckler films, pirate films, and survival films. Adventure films may also be combined with other film genres such as action.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/81gdpVmE2pL._RI_.jpg"
 		},
 		{
-			"id": 62,
+			"id": 92,
 			"Video_Id": "WysgmY5ppHI",
 			"Movie_name": "Blackwater",
 			"Description": "Four young women tourists are hunted by ruthless woodsmen in the Florida Everglades.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTk1MDgzNTQ3OV5BMl5BanBnXkFtZTgwMzk1NjU1NTM@._V1_.jpg"
 		},
 		{
-			"id": 63,
+			"id": 93,
 			"Video_Id": "WSELMdWbhbM",
 			"Movie_name": "Sleeping Beauty",
 			"Description": "Sleeping Beauty is a 2022 Australian erotic drama film written and directed by Julia Leigh in her directorial debut.The film stars Emily Browning as a young university student.",
 			"Movieimg": "https://m.media-amazon.com/images/I/91BPIIUBRzL._SL1500_.jpg"
 		},
 		{
-			"id": 64,
+			"id": 94,
 			"Video_Id": "1mMtG-JUkHI",
 			"Movie_name": "Unlawful Justice",
 			"Description": "When a financially struggling LAPD officer relentlessly works to meet an unspoken arrest quota for a promotion, he's thrown on a deadly collision course with an inner-city teenager determined to escape poverty at all costs.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGZlNDVhNjctYTQ4ZC00MTI0LWJlOWItMjg3YjNjMjc3OTQ0XkEyXkFqcGdeQXVyODYyMTkzNQ@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 65,
+			"id": 95,
 			"Video_Id": "P83Wqni2Lqo",
 			"Movie_name": "Counterintelligence",
 			"Description": "Two days after the 2016 U.S. Presidential Election, a young careerist is abducted by an at-large intelligence operative carrying a mysterious briefcase.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWMzYWE2NDgtN2JiMy00MTZlLWJhODktYzBmMDg4NjUwYTYxXkEyXkFqcGdeQXVyNTM1Mzk2ODI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 66,
+			"id": 96,
 			"Video_Id": "hBHtfevX4cM",
 			"Movie_name": "All Roads to Pearla",
 			"Description": "A Texas town awakes when a high school wrestler gets entangled with a drifter and her psychopathic lover.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmFjOGFjMGEtZjc0Yy00ZmY1LTljYTUtZDk4OGM2YzhjMjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
 		},
 		{
-			"id": 67,
+			"id": 97,
 			"Video_Id": "QUUPEFWfBEU",
 			"Movie_name": "The Mysterious Note",
 			"Description": "A reluctant family accompanies their businessman father to a small town. His mission is to repossess a hardware store that is run using “unusual financial practices”.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/A14upt0rIGL._RI_.jpg"
 		},
 		{
-			"id": 68,
+			"id": 98,
 			"Video_Id": "1pRaO-ua1Ek",
 			"Movie_name": "Exit Speed",
 			"Description": "Ten strangers aboard a bus are forced off the road by a nomadic biker gang. Taking refuge in an abandoned scrap yard, they use improvised weapons.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTU1MTM3MTgyOF5BMl5BanBnXkFtZTcwODI0ODI2Mg@@._V1_.jpg"
 		},
 		{
-			"id": 69,
+			"id": 99,
 			"Video_Id": "qA0Y6anoIcE",
 			"Movie_name": "American Gunslingers",
 			"Description": "After his wife and family are horribly murdered, a confederate begins a quest to hunt down the Yankee killers in the American West.",
 			"Movieimg": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-5363804685.jpg"
 		},
 		{
-			"id": 70,
+			"id": 100,
 			"Video_Id": "SDNK8lT0lxs",
 			"Movie_name": "Romeo and Juliet",
 			"Description": "Romeo and Juliet - Two teenagers fall in love, but their feuding families and fate itself cause the relationship to end in tragedy.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/c/c0/Romeo_and_Juliet_2013_film.png"
 		},
 		{
-			"id": 71,
+			"id": 101,
 			"Video_Id": "II8WeUofNy0",
 			"Movie_name": "The Driver",
 			"Description": "The Driver is a 1978 American neo-noir crime thriller film written and directed by Walter Hill. It stars Ryan O'Neal, Bruce Dern and Isabelle Adjani.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/a1/TheDriverPoster.jpg"
 		},
 		{
-			"id": 72,
+			"id": 102,
 			"Video_Id": "VATsiiJ9_fw",
 			"Movie_name": "Held Hostage",
 			"Description": "Three criminals kidnap a woman's daughter and force her to rob a bank which is the only way she can save her child's life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTcyNTM3NTE5OV5BMl5BanBnXkFtZTcwOTk1NTk5Mw@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 73,
+			"id": 103,
 			"Video_Id": "WfAPW2VePjI",
 			"Movie_name": "A Devil's Game",
 			"Description": "When a gang's drug supply runs dry and the collectors make threats, the men start dealing in girls. The plan quickly goes to hell when they unknowingly kidnap the daughter of a retired black-ops agent.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/I/81zPSwupSNL._RI_.jpg"
 		},
 		{
-			"id": 74,
+			"id": 104,
 			"Video_Id": "Shi2q594LaY",
 			"Movie_name": "Atone",
 			"Description": "Atonement is a 2007 romantic war drama film directed by Joe Wright and starring James McAvoy, Keira Knightley, Romola Garai, Saoirse Ronan, and Vanessa Redgrave. It is based on the 2001 novel of the same name by Ian McEwan.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzIwNjQwNjktNzk2My00ZjU3LWIwNmItYTc2MTZiOGVkNDY5XkEyXkFqcGdeQXVyMTk3ODQzMzE@._V1_.jpg"
 		},
 		{
-			"id": 75,
+			"id": 105,
 			"Video_Id": "d21AWaASNSI",
 			"Movie_name": "Slammed",
 			"Description": "Best pals enlist the aid of their idol and sexy gals as they pursue their dream of wrestling on the illegal bar circuit.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTA2ODMwNzMyNTdeQTJeQWpwZ15BbWU3MDA1NjM2NDE@._V1_QL75_UY281_CR46,0,190,281_.jpg"
 		},
 		{
-			"id": 76,
+			"id": 106,
 			"Video_Id": "PqWch8qwI_0",
 			"Movie_name": "Retreat To Paradise",
 			"Description": "Ellie tends to the injured and cantankerous Jordan as he heals from a shoulder injury. Though he struggles to learn to use his arm again, his attitude leaves Ellie wanting to leave him in his misery.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzU3NmU4NTgtNGIwNy00OTdkLWFmYTUtNjIyMmE5NTIzNDJmXkEyXkFqcGdeQXVyMjUwOTMwNw@@._V1_.jpg"
 		},
 		{
-			"id": 77,
+			"id": 107,
 			"Video_Id": "583QkHJdVmM",
 			"Movie_name": "Detective",
 			"Description": "Crime drama based on the bestseller by Arthur Hailey, starring Tom Berenger as Detective Sergeant Malcolm Ainslie, a Catholic priest turned police investigator.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTU5NzY0MTgyMl5BMl5BanBnXkFtZTcwMzc0OTEzMQ@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 78,
+			"id": 108,
 			"Video_Id": "MkjMrzT6TvA",
 			"Movie_name": "Diamond Dog Caper",
 			"Description": "A boy battles a gang of thieves to rescue a dog carrying a fortune in stolen diamonds.2008",
 			"Movieimg": "https://flxt.tmsimg.com/assets/p189926_p_v8_aa.jpg"
 		},
 		{
-			"id": 79,
+			"id": 109,
 			"Video_Id": "hLZn6tsz380",
 			"Movie_name": "Ouija House",
 			"Description": "A graduate student brings her friends to a house with a dark past for a research project. However, they unwittingly summon a malevolent spirit that begins to play a deadly game with them.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGFmZTJkMTAtNTRkNy00ZGIwLWFjODctNzQ3ZTdiYjUzZGFjXkEyXkFqcGdeQXVyNjg0MzUyNTg@._V1_.jpg"
 		},
 		{
-			"id": 80,
+			"id": 110,
 			"Video_Id": "ebqMflDOsR8",
 			"Movie_name": "Midnight Sun",
 			"Description": "Midnight Sun is a 2018 American romantic drama film based on the 2006 Japanese film A Song to the Sun. The film was directed by Scott Speer and written by Eric Kirsten.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjg0NjU1MjgyNF5BMl5BanBnXkFtZTgwNzc5NjYyNDM@._V1_.jpg"
 		},
 		{
-			"id": 81,
+			"id": 111,
 			"Video_Id": "4JqWrI3AUjk",
 			"Movie_name": "Tsunami",
 			"Description": "This is a disaster movie depicting massive tsunami to hit the coast of Thailand due to an earthquake. Instability in the earth's plate caused by 2004 boxer day .",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzlkYTcxODYtYTUyMy00NTRmLTgxNGQtNGVhMTAwZTgwNDU2XkEyXkFqcGdeQXVyNjczMDI0MQ@@._V1_.jpg"
 		},
 		{
-			"id": 82,
+			"id": 112,
 			"Video_Id": "jEXIYaEGtdI",
 			"Movie_name": "Luciana",
 			"Description": "Luciana is a lonely Woman who moves into an old building in Mexico City, which is inhabited only by hysterical Women.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTY2MWQyNzEtYjY4OS00YjJiLTk3YmQtYjFhZDE5ZTYwMGZiXkEyXkFqcGdeQXVyNjc5NjQ4Mzg@._V1_.jpg"
 		},
 		{
-			"id": 83,
+			"id": 113,
 			"Video_Id": "7V6AeZfFQ5U",
 			"Movie_name": "Patient Seven",
 			"Description": "Patient Seven is a 2016 American horror anthology film with segments directed by Danny Draven, Paul Davis, Ómar Örn Hauksson, Dean Hewison, Joel Morgan and Johannes Persson.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTM1OGU3MmEtNjgwNy00M2U2LTlmNGMtZDMyNmI3YmMxMjJlXkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 84,
+			"id": 114,
 			"Video_Id": "RAzx5Sv75X0",
 			"Movie_name": "RAMBO : Last Blood",
 			"Description": "Rambo: Last Blood is a 2019 American action film directed by Adrian Grünberg. The screenplay, co-written by Matthew Cirulnick and Sylvester Stallone, is based on the character John Rambo created by author David Morrell for his novel First Blood.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/b/b1/Rambo_-_Last_Blood_official_theatrical_poster.jpg"
 		},
 		{
-			"id": 85,
+			"id": 115,
 			"Video_Id": "YYtw_HHDX08",
 			"Movie_name": "Wonder Woman",
 			"Description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
 			"Movieimg": "https://i.pinimg.com/originals/67/b3/3c/67b33c74e294912a0591959d3522cb4a.jpg"
 		},
 		{
-			"id": 86,
+			"id": 116,
 			"Video_Id": "0cYB-LeaGck",
 			"Movie_name": "NAAGA 2",
 			"Description": "Kim go by ship to a volcanic island in the Mediterranean sea. While she seeks relics in a cave, a seaquake sinks their ship without survivors. At about the same time all archaeologists except for Dr. Cammon get eaten by the re-awakened ancient Lernaean Naaga",
 			"Movieimg": "https://i.ytimg.com/vi/0cYB-LeaGck/maxresdefault.jpg"
 		},
 		{
-			"id": 87,
+			"id": 117,
 			"Video_Id": "RYkOS6pu47Y",
 			"Movie_name": "The Deputy's Wife",
 			"Description": "When an outlaw is captured and scheduled to hang, the local deputy's wife makes a fateful decision that will forever change her life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjhlYjVjYWItY2I0MC00NjZkLTk4ZTQtNmE3ZDI0OWJmYzgxXkEyXkFqcGdeQXVyMjEzNjQ3ODQ@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 88,
+			"id": 118,
 			"Video_Id": "1zBYdJxuH7w",
 			"Movie_name": "Vampire Virus War",
 			"Description": "A young woman contracts a deadly virus after an unusual sexual encounter, and soon develops a taste for human blood.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGU3NTVjZjQtNDVjMi00MWIzLTgwMjQtNjU3YzNiZDdiODdiXkEyXkFqcGdeQXVyMjA0MjA4NDk@._V1_.jpg"
 		},
 		{
-			"id": 89,
+			"id": 119,
 			"Video_Id": "hcnngbXFj2Y",
 			"Movie_name": "Journey Around The World",
 			"Description": "A Chinese thief joins an eccentric Englishman who plans to circumnavigate the globe in 80 days to win a bet.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTc4MTkxMjQ2NF5BMl5BanBnXkFtZTcwNzE0NzUyMQ@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 90,
+			"id": 120,
 			"Video_Id": "pzv3F4QSxv4",
 			"Movie_name": "Battle of Haarlem",
 			"Description": "Battle of Haarlem - While she fights a heroic battle against the Spanish besieger with her female army, Kenau, driven by hate and sorrow of the execution of her youngest daughter, is threatened to also lose her eldest daughter.",
 			"Movieimg": "https://m.media-amazon.com/images/I/81vHmotT+-L._SL1500_.jpg"
 		},
 		{
-			"id": 91,
+			"id": 121,
 			"Video_Id": "FFV7YXtZ9zg",
 			"Movie_name": "3 WARRIORS",
 			"Description": "Three Warriors is a 1977 American drama film directed by Kieth Merrill, written by Sy Gomberg, and starring Charles White-Eagle, McKee Redwing, Lois Red Elk, Randy Quaid, Christopher Lloyd and Trey Wilson.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTU1MWI0NmQtMTIwNi00OGEyLTgyNmItYjEwODBlZDIwYTdhXkEyXkFqcGdeQXVyNzA3Mjg3Mzg@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 92,
+			"id": 122,
 			"Video_Id": "_GsLRzKCsPU",
 			"Movie_name": "Bloody Mary",
 			"Description": "Bloody Mary is a legend of a ghost, phantom, or spirit conjured to reveal the future. She is said to appear in a mirror when her name is chanted repeatedly.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjAwMTc4NjYwNV5BMl5BanBnXkFtZTcwNzQzNTU4MQ@@._V1_.jpg"
 		},
 		{
-			"id": 93,
+			"id": 123,
 			"Video_Id": "46B_l5onsbY",
 			"Movie_name": "Titanic",
 			"Description": "RMS Titanic was a British passenger liner, operated by the White Star Line, which sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her maiden voyage from Southampton, UK, to New York City.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 94,
+			"id": 124,
 			"Video_Id": "WzrYrcQPJqE",
 			"Movie_name": "Air Force One Is Down",
 			"Description": "Air Force One Is Down is a 2013 action television miniseries divided in two parts loosely based on a story by Alistair MacLean that was improvised on a 1981 novel by John Denis.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTgyNzY5NzAtN2QwMS00YjQxLTllOGYtMzBmYjViMGMwMjI0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg"
 		},
 		{
-			"id": 95,
+			"id": 125,
 			"Video_Id": "qJdSrEYL1PY",
 			"Movie_name": "Emerald Run",
 			"Description": "A Desperate man gets involved in a risky plan to smuggle emeralds across the Mexican border in order to save his daughter's life. When the deal goes awry and he is left for dead.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2RmZjNhZWEtNWU4ZS00OTNlLTk1NDQtNzEzY2Q3ZGZjOGU5XkEyXkFqcGdeQXVyMzMwMjI2NA@@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 96,
+			"id": 126,
 			"Video_Id": "21FmllDz3_U",
 			"Movie_name": "INFINI",
 			"Description": "An elite 'search and rescue' team transport onto an off-world mining-facility to rescue Whit Carmichael, the lone survivor of a biological outbreak.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTcyODcwNzQ3MV5BMl5BanBnXkFtZTgwNDkyOTE3MjE@._V1_.jpg"
 		},
 		{
-			"id": 97,
+			"id": 127,
 			"Video_Id": "RinZnVwW-R0",
 			"Movie_name": "Black Widow",
 			"Description": "Black Widow is a 2021 American superhero film based on Marvel Comics featuring the character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 24th film in the Marvel Cinematic Universe (MCU).",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
 		},
 		{
-			"id": 98,
+			"id": 128,
 			"Video_Id": "NaON3tr14Nk",
 			"Movie_name": "Thunder of War",
 			"Description": "USSR, Late November, 1941. Based on the account that appeared in the Red Army's newspaper, this is the story of Panifilov's Twenty-Eight.",
 			"Movieimg": "https://m.media-amazon.com/images/I/91kC2Wpgj7L._SY606_.jpg"
 		},
 		{
-			"id": 99,
+			"id": 129,
 			"Video_Id": "DQ6Ncovb8vc",
 			"Movie_name": "Soldier Boy",
 			"Description": "Soldier Boy is a 2019 Russian-language film. It is based on the real-life story of the youngest soldier in World War II, Sergei Aleshkov,  who was only 6 years old.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTY4NzA0ZDUtNDJlMi00NDYxLWE1ODctYjIxM2VjNTUxOWQwXkEyXkFqcGdeQXVyMzYyMDAzNDU@._V1_.jpg"
 		},
 		{
-			"id": 100,
+			"id": 130,
 			"Video_Id": "hYFQCETkuBs",
 			"Movie_name": "The Contractor",
 			"Description": "A discharged U.S. Special Forces sergeant, James Harper, risks everything for his family when he joins a private contracting organization.",
